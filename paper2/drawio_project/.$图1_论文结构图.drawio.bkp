@@ -1,0 +1,81 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="FRi9EtenfeGbm2hwaU62">
+    <mxGraphModel dx="1434" dy="836" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AQ1n5JEmSIVMhliyZSi8-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=18;" edge="1" parent="1" source="AQ1n5JEmSIVMhliyZSi8-1" target="AQ1n5JEmSIVMhliyZSi8-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="445.5" y="238" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AQ1n5JEmSIVMhliyZSi8-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;第一章 绪论&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="281.62" y="67" width="388.38" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="AQ1n5JEmSIVMhliyZSi8-3" value="第二章 相关理论介绍&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="281.62" y="145" width="388.38" height="157" as="geometry" />
+        </mxCell>
+        <mxCell id="AQ1n5JEmSIVMhliyZSi8-8" value="第三章 基于BWM的三支冲突分析模型&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="70" y="350" width="374" height="219" as="geometry" />
+        </mxCell>
+        <mxCell id="AQ1n5JEmSIVMhliyZSi8-13" value="第四章 基于信任驱动的三支冲突分析模型&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="577" y="353" width="374" height="219" as="geometry" />
+        </mxCell>
+        <mxCell id="AQ1n5JEmSIVMhliyZSi8-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.321;exitY=1.017;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;fontSize=18;" edge="1" parent="1" source="AQ1n5JEmSIVMhliyZSi8-3" target="AQ1n5JEmSIVMhliyZSi8-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="444" as="sourcePoint" />
+            <mxPoint x="470" y="394" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AQ1n5JEmSIVMhliyZSi8-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;fontSize=18;" edge="1" parent="1" source="AQ1n5JEmSIVMhliyZSi8-3" target="AQ1n5JEmSIVMhliyZSi8-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="434" y="308" as="sourcePoint" />
+            <mxPoint x="327" y="383" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AQ1n5JEmSIVMhliyZSi8-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;fontSize=18;" edge="1" parent="1" source="AQ1n5JEmSIVMhliyZSi8-8" target="AQ1n5JEmSIVMhliyZSi8-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="459" as="sourcePoint" />
+            <mxPoint x="371" y="729" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AQ1n5JEmSIVMhliyZSi8-18" value="第五章 总结与展望" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="281.62" y="703" width="388.38" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="AQ1n5JEmSIVMhliyZSi8-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;fontSize=18;" edge="1" parent="1" source="AQ1n5JEmSIVMhliyZSi8-13" target="AQ1n5JEmSIVMhliyZSi8-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="323" y="687" as="sourcePoint" />
+            <mxPoint x="448" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AQ1n5JEmSIVMhliyZSi8-23" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;冲突分析的基本知识&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="350.34" y="178" width="250.94" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="AQ1n5JEmSIVMhliyZSi8-24" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;社会网络分析的基本知识&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="350.34" y="219" width="250.94" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="AQ1n5JEmSIVMhliyZSi8-25" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;BWM的基本知识&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="350.34" y="260" width="250.94" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="AQ1n5JEmSIVMhliyZSi8-28" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;基于BWM的三支冲突分析模型构建&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="87.87999999999998" y="399" width="338.25" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="AQ1n5JEmSIVMhliyZSi8-29" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;基于主观偏好与客观数据的议题权重求解&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="87.87999999999998" y="454" width="338.25" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="AQ1n5JEmSIVMhliyZSi8-30" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;实验及结果分析&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="87.88" y="510" width="338.25" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="AQ1n5JEmSIVMhliyZSi8-31" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;社会网络中的信任传播与代理影响力&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="594.88" y="399" width="338.25" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="AQ1n5JEmSIVMhliyZSi8-32" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;基于信任驱动的三支冲突分析模型构建&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="594.88" y="454" width="338.25" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="AQ1n5JEmSIVMhliyZSi8-33" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;实验及结果分析&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="594.88" y="510" width="338.25" height="31" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
